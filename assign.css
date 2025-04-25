@@ -1,0 +1,15 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgba(12, 89, 152, 0.5); 
+    color: #0d0606;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+  }
+  
+  
